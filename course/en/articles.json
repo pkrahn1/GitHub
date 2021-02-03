@@ -1,0 +1,18 @@
+[
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "601b136de0ae5e57986fa4c7",
+    "_parentId": "601b136de0ae5e57986fa4c6",
+    "_type": "article"
+  }
+]
